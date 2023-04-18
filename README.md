@@ -2,4 +2,10 @@
 
 Proyecto finalizado de Apeperia de "Layouts Responsivos: Trabajando con layouts mobile", de Alura LATAM.
 
-<!-- ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png) -->
+## Screenshots
+
+<div align="center">
+
+![Logo](https://raw.githubusercontent.com/DanielQuilcue/Apeperia-Layouts/main/img/Final.png)
+
+</div>
